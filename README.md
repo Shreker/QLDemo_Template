@@ -2,7 +2,7 @@
 
 ***
 该目录建议存放的位置:
-> /Users/Shrek/Library/Developer/Xcode/Templates/Project\ Templates/iOS
+> /Users/**YOUR ACCOUNT NAME**/Library/Developer/Xcode/Templates/Project\ Templates/iOS
 
 如果没有哪个目录自己mkdir一个便是.
 
